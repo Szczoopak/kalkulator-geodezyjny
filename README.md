@@ -2,6 +2,10 @@
 
 Aplikacja desktopowa napisana w Pythonie (Tkinter) przeznaczona do wykonywania specjalistycznych obliczeń geodezyjnych oraz komunikacji z instrumentami pomiarowymi.
 
+![Zrzut ekranu aplikacji](assets/screenshot.png)
+![Zrzut ekranu aplikacji](assets/screenshot1.png)
+![Zrzut ekranu aplikacji](assets/screenshot2.png)
+
 ## 🚀 Funkcje aplikacji
 
 * **Kolimacja i Inklinacja:** Obliczanie średniej kolimacji, inklinacji, błędów poprawek oraz wprowadzanie poprawek do odczytów koła poziomego.
