@@ -2,9 +2,18 @@
 
 Aplikacja desktopowa napisana w Pythonie (Tkinter) przeznaczona do wykonywania specjalistycznych obliczeń geodezyjnych oraz komunikacji z instrumentami pomiarowymi.
 
-![Zrzut ekranu aplikacji](assets/screenshot.png)
-![Zrzut ekranu aplikacji](assets/screenshot1.png)
-![Zrzut ekranu aplikacji](assets/screenshot2.png)
+<table>
+  <tr>
+    <td align="center"><b>Menu Główne & Obliczenia</b></td>
+    <td align="center"><b>Wykresy i Analizy</b></td>
+    <td align="center"><b>Terminal Serial</b></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshot.png" width="100%" alt="Kolimacja"></td>
+    <td><img src="assets/screenshot1.png" width="100%" alt="Wykres współczynnika Ng0"></td>
+    <td><img src="assets/screenshot2.png" width="100%" alt="Generator łaty RAB"></td>
+  </tr>
+</table>
 
 ## 🚀 Funkcje aplikacji
 
