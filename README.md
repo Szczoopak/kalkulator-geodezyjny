@@ -4,9 +4,9 @@ Aplikacja desktopowa napisana w Pythonie (Tkinter) przeznaczona do wykonywania s
 
 <table>
   <tr>
-    <td align="center"><b>Menu Główne & Obliczenia</b></td>
-    <td align="center"><b>Wykresy i Analizy</b></td>
-    <td align="center"><b>Terminal Serial</b></td>
+    <td align="center"><b>Kolimacja</b></td>
+    <td align="center"><b>Wykres współczynnika Ng0</b></td>
+    <td align="center"><b>Generator łaty RAB</b></td>
   </tr>
   <tr>
     <td><img src="assets/screenshot.png" width="100%" alt="Kolimacja"></td>
